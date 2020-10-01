@@ -1,1 +1,1 @@
-web: gunicorn imdb.wsgi
+web: gunicorn imdb.wsgi:application --log-file - --log-level debug
