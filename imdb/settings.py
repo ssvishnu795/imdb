@@ -26,7 +26,7 @@ SECRET_KEY = '_5t-%1h)u^g@e_^_b)i(cpdsx#5gc!5byzw4ay6c-*eyitnsg3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['quiet-springs-15685.herokuapp.com']
+ALLOWED_HOSTS = ['quiet-springs-15685.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
